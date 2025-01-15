@@ -4,8 +4,7 @@ adopt.me is a Twitter AI bot that allows users to adopt unique, AI-generated dig
 `i'd like to adopt a dog @adoptdotme`.
 
 The bot replies with:
-- A one-of-a-kind AI-generated image of a digital dog.
-- A playful personality description for the dog.
+- A one-of-a-kind AI-generated image of a digital dog, that the user now adopts.
 - A link to donate to the **Dogs for Better Lives** foundation, which trains assistance dogs to improve lives.
 
 This project combines AI creativity, social interaction, and philanthropy into a fun, engaging experience.
@@ -16,7 +15,7 @@ This project combines AI creativity, social interaction, and philanthropy into a
    `i'd like to adopt a dog @adoptdotme`.
 
 2. The bot processes the request and replies with:
-   - An AI-generated image of a dog.
+   - An AI-generated image of a dog for the user to adopt.
    - A donation link to support **Dogs for Better Lives**.
 
 3. Users are encouraged to share their adopted dogs on social media and consider donating to help real-world dogs in need.
