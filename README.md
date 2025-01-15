@@ -17,7 +17,6 @@ This project combines AI creativity, social interaction, and philanthropy into a
 
 2. The bot processes the request and replies with:
    - An AI-generated image of a dog.
-   - A personality description, such as "This is Max, a playful and energetic pup who loves belly rubs."
    - A donation link to support **Dogs for Better Lives**.
 
 3. Users are encouraged to share their adopted dogs on social media and consider donating to help real-world dogs in need.
