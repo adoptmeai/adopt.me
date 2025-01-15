@@ -1,5 +1,4 @@
-# adopt.me Bot
-
+# adopt.me
 Welcome to **adopt.me**, a Twitter AI bot that lets users adopt their own digital dog! This project combines AI-generated art and a cause-driven mission to support the **Dogs for Better Lives** foundation.
 
 ## How It Works
