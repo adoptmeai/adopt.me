@@ -14,7 +14,7 @@ Welcome to **adopt.me**, a Twitter AI bot that lets users adopt their own digita
    - Users who adopt a digital dog will also have the opportunity to donate to the **Dogs for Better Lives** foundation. A donation link will be included in the bot’s reply.
 
 3. **Personalized Experience**:
-   - Each user receives a one-of-a-kind digital dog, complete with a short description, a unique name, and a suggested backstory for their new companion.
+   - Each user receives a one-of-a-kind digital dog, ready to be their online best friend.
 
 ---
 
